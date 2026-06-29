@@ -31,7 +31,7 @@ Quantum Principal Component Analysis (QPCA)
 Your project explores hybrid quantum-classical models including QNN-XGBoost, QSVM, Logistic Regression-QSVM, and QPCA-KNN approaches for fraud detection.
 
 Installation
-git clone https://github.com/yourusername/Quantum-Fraud-Detector.git
+git clone https://github.com/dianne44/QuantumCreditCardFraudDetector.git
 
 cd QuantumCreditCardFraudDetector
 
